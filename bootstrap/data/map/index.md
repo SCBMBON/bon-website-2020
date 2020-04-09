@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 'Data Catalog'
+title: 'Data Map'
 description: Interactive maps available within Santa Barbara Channel.
 ---
 
@@ -13,7 +13,7 @@ description: Interactive maps available within Santa Barbara Channel.
 <div class="row">
     <div class="col-md-5">
         <div class="embed-responsive embed-responsive-16by9">
-             <a href="reef map/" target="_blank">
+             <a href="reef_map/" target="_blank">
                 <img class="img-thumbnnail img-responsive img-center" src="{{site.url}}/img/maps/newmap.png" >
             </a>
         </div>
@@ -34,7 +34,7 @@ description: Interactive maps available within Santa Barbara Channel.
 <div class="row">
     <div class="col-md-5">
         <div class="embed-responsive embed-responsive-16by9">
-            <a href="marine mammals/" target="_blank">
+            <a href="marine_mammals/" target="_blank">
                  <img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/maps/graywhale.jpg">
             </a>
     </div>
@@ -50,7 +50,7 @@ description: Interactive maps available within Santa Barbara Channel.
 <div class="row">
     <div class="col-md-5">
         <div class="embed-responsive embed-responsive-16by9">
-            <a href="oil platforms/" target="_blank">
+            <a href="oil_platforms/" target="_blank">
                  <img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/maps/platform_decommission.jpg">
             </a>
     </div>
@@ -68,7 +68,7 @@ description: Interactive maps available within Santa Barbara Channel.
 <div class="row">
     <div class="col-md-5">
         <div class="embed-responsive embed-responsive-16by9">
-            <a href="Beach bird/" target="_blank">
+            <a href="Beach_bird/" target="_blank">
                  <img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/maps/beach_bird.jpg">
             </a>
     </div>
@@ -88,7 +88,7 @@ description: Interactive maps available within Santa Barbara Channel.
 <div class="row">
     <div class="col-md-5">
         <div class="embed-responsive embed-responsive-16by9">
-            <a href="deep reef fish/" target="_blank">
+            <a href="deep_reef_fish/" target="_blank">
                  <img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/maps/deep_reef_fish.jpg">
             </a>
     </div>
@@ -101,7 +101,25 @@ description: Interactive maps available within Santa Barbara Channel.
         <p><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=110" target="_blank"> Deep reef fish</a></p>
     </div>
 </div>
+ 
+ <hr>
+ 
+ <div class="row">
+    <div class="col-md-5">
+        <div class="embed-responsive embed-responsive-16by9">
+            <a href="Imagery_BisQue/" target="_blank">
+                 <img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/bgs/imagery.jpg">
+            </a>
+    </div>
 
+</div>
+    <div class="col-md-7">
+        <h3>Benthic community from the image analysis</h3>
+        <p>This is a series of interactive maps show the abundance and diversity of the benthos organisms, as well as their community assemblage in the kelp forest.</p>
+        <p>Relevant datasets include: </p>
+        <p><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=484" target="_blank">Benthic percent cover</a></p>
+    </div>
+</div>
 
 <!--
    
