@@ -108,11 +108,10 @@ description: Interactive maps available within Santa Barbara Channel.
     <div class="col-md-5">
         <div class="embed-responsive embed-responsive-16by9">
             <a href="Imagery_BisQue/" target="_blank">
-                 <img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/bgs/imagery.jpg">
+                 <img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/maps/benthic_imagery.jpg">
             </a>
+        </div>
     </div>
-
-</div>
     <div class="col-md-7">
         <h3>Benthic community from the image analysis</h3>
         <p>This is a series of interactive maps show the abundance and diversity of the benthos organisms, as well as their community assemblage in the kelp forest.</p>
@@ -120,6 +119,24 @@ description: Interactive maps available within Santa Barbara Channel.
         <p><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=484" target="_blank">Benthic percent cover</a></p>
     </div>
 </div>
+
+ <hr>
+
+ 
+ <div class="row">
+    <div class="col-md-5">
+        <div class="embed-responsive embed-responsive-16by9">
+            <a href="cinms/" target="_blank">
+                 <img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/maps/cinms.png">
+            </a>
+        </div>
+    </div>
+    <div class="col-md-7">
+        <h3>Interactive ecosystem for marine sanctuary</h3>
+        <p>The Channel Islands national marine Sanctuary is using SBC MBON data to inform on the condition of ocean health in the Sanctuary.</p>
+    </div>
+</div>
+
 
 <!--
    
