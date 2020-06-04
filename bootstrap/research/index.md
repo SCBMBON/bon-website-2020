@@ -6,7 +6,7 @@ description: The Santa Barbara Channel Marine Biodiversity Observation Network (
 
 <div class="container" id="landing-content">
 	<div class="col-lg-12">
-		<h1 class="page-header">Research.</h1>
+		<h1 class="page-header">Research</h1>
 			<img class="featurette-image img-responsive center-block" src="{{site.url}}/img/bgs/research.jpg" alt="Generic placeholder image" style="float:right; PADDING-LEFT: 15px">
 			<font size="3px"><p>Using a two-part approach, the core of our research focuses on:</p>
 			<br>

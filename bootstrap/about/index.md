@@ -7,9 +7,7 @@ description: Learn about the origin and motivation for the Santa Barbara Channel
 <div class="row">
 	<div class="col-lg-12">
 		<h1 class="page-header">About<span class="text-muted"> SBC MBON.</span></h1>
-		<blockquote><p class="lead">
-			FRANKIE WAS HERE.
-			
+		<blockquote><p class="lead">			
 			The Santa Barbara Channel Marine Biodiversity Observation Network (SBC MBON) is designed to provide a complete picture of marine biodiversity in the region. SBC MBON is developing a widely applicable research model that integrates new information with existing data to improve current research and monitoring programs and provide greater insight into marine biodiversity.</p></blockquote>
 
 		<p>Millions of dollars are spent annually monitoring marine resources, however, such efforts are uncoordinated and have major information gaps. We are developing a scalable and reproducible  Marine Biodiversity Observation Network using  the Santa Barbara Channel as a case study. This network will connect existing marine monitoring efforts in the Santa Barbara Channel and work to fill information gaps.</p>
