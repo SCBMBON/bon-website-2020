@@ -60,7 +60,6 @@
   class: investigator
   image: rassweiler.jpg
   biotext: "Andrew works as an Assistant Research Biologist for the Marine Science Institute, UCSB, and is responsible for data integration and synthesis within SBC MBON, as well as development of models for sampling optimization."
-
 - title: "Dan Reed"
   role: "Co-Principal Investigator: Marine Ecology"
   class: investigator
@@ -78,12 +77,6 @@
   class: investigator
   image: thompson.jpg
   biotext: "Andrew works as a Research Fisheries Biologist with NOAA Fisheries as part of the Southwest Fisheries Science Center. He works with identification and analysis of larval fishes collected from oceanographic plankton samples."
-
-- title: "Thomas Turner"
-  role: "Associate Investigator: Evolutionary Biology and Ecology"
-  class: investigator
-  image: tturner.jpg
-  biotext: "We aim to improve our understanding of the diversity, evolutionary history, and ecological services of sponges in rocky reef habitats in California. These kelp forest habitats contain an astonishing diversity of suspension-feeding marine invertebrates. Together with other colonial filter feeders like tunicates, anthozoans, and bryozoans, sponges occupy a considerable portion of the hard-bottom substrate in shallow waters."
 
 - title: "Thomas Lamy"
   role: "Postdoctoral Researcher: spatio-temporal dynamics of biodiversity"
