@@ -7,3 +7,4 @@ bootstrap/_config.yml
 bootstrap/_site/
 bootstrap/_config.yml
 bootstrap/config.yml
+.jekyll-cache/
