@@ -2,43 +2,43 @@
 
 - name: "Channel Islands National Marine Sanctuary"
   acronym: "CINMS"
-  link: "http://channelislands.noaa.gov/"
+  link: "https://channelislands.noaa.gov/"
   
 - name: "Channel Islands National Park"
   acronym:
-  link: "http://www.nps.gov/chis/index.htm"
+  link: "https://www.nps.gov/chis/index.htm"
   
 - name: "USGS Western Ecological Research Center"
   acronym: WERC
-  link: "http://www.werc.usgs.gov/"
+  link: "https://www.werc.usgs.gov/"
 
 - name: "Southern California Coastal Ocean Observing System"
   acronym: "SCCOOS"
-  link: "http://www.sccoos.org/"
+  link: "https://www.sccoos.org/"
 
 - name: "Plumes and Blooms Project"
   acronym: "PnB"
-  link: "http://www.oceancolor.ucsb.edu/plumes_and_blooms/"
+  link: "https://www.oceancolor.ucsb.edu/plumes_and_blooms/"
 
 - name: Southern California Coastal Water Research Project
   acronym: SCCWRP
-  link: "http://www.sccwrp.org/"
+  link: "https://www.sccwrp.org/"
 
 - name: "Santa Barbara Coastal Long-Term Ecological Research Program"
   acronym: "SBC LTER"
-  link: "http://sbc.lternet.edu/"
+  link: "https://sbclter.msi.ucsb.edu/"
 
 - name: "Gray Whales Count"
   acronym: 
-  link: "http://www.graywhalescount.org/GWC/The_Count/The_Count.html"
+  link: "https://www.graywhalescount.org/GWC/The_Count/The_Count.html"
 
 - name: "San Onofre Nuclear Generating Station Mitigation Monitoring Program"
   acronym: UCSB SONGS
-  link: "http://marinemitigation.msi.ucsb.edu/"
+  link: "https://marinemitigation.msi.ucsb.edu/"
 
 - name: "California Cooperative Oceanic Fisheries Investigations"
   acronym: "CalCOFI"
-  link: "http://www.calcofi.org/"
+  link: "https://www.calcofi.org/"
 
 
 

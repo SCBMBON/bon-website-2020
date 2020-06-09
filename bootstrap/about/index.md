@@ -16,7 +16,7 @@ description: Learn about the origin and motivation for the Santa Barbara Channel
 
 		<p>SBC MBON is one of four demonstration marine biodiversity observation networks established in the United States to build a better understanding of marine health and biodiversity on a global scale.</p>
 
-		<a class="btn btn-primary" href="http://geobon.org/become-a-bon/thematic-bons/" target="_blank">Learn More <span class="glyphicon glyphicon-chevron-right"></span></a>
+		<a class="btn btn-primary" href="https://geobon.org/become-a-bon/thematic-bons/" target="_blank">Learn More <span class="glyphicon glyphicon-chevron-right"></span></a>
 		<hr>
 	<div class="container-fluid">
 	<div class="row">

@@ -34,10 +34,10 @@ description: Learn about the origin and motivation for the Santa Barbara Channel
 				<a href="https://www.nasa.gov/" target="new"><img class="funder-logo img-responsive" alt="NASA logo" src="{{site.url}}/img/funders/nasa_logo_small.png"></a>
 			</div>
 			<div class="col-md-4">
-				<a href="http://www.boem.gov/" target="new"><img class="funder-logo img-responsive" alt="BOEM logo" src="{{site.url}}/img/funders/boem_logo_small.png" ></a>
+				<a href="https://www.boem.gov/" target="new"><img class="funder-logo img-responsive" alt="BOEM logo" src="{{site.url}}/img/funders/boem_logo_small.png" ></a>
 			</div>
 			<div class="col-md-4">
-				<a href="http://www.noaa.gov/" target="new"><img class="funder-logo img-responsive" alt="NOAA logo" src="{{site.url}}/img/funders/noaa_logo_small.png" ></a>
+				<a href="https://www.noaa.gov/" target="new"><img class="funder-logo img-responsive" alt="NOAA logo" src="{{site.url}}/img/funders/noaa_logo_small.png" ></a>
 			</div>
 			<span class="stretch"></span>
 		</div>
