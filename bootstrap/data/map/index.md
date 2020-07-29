@@ -1,12 +1,12 @@
 ---
 layout: article
 title: 'Data Map'
-description: Interactive maps available within Santa Barbara Channel.
+description: Interactive maps available within Southern California Bight.
 ---
 
 <div class="row">
     <div class="col-md-7">
-        <h1 class="page-header">SBC MBON Interactive Maps</h1>
+        <h1 class="page-header">SCB MBON Interactive Maps</h1>
     </div>
 </div>
 
@@ -133,7 +133,7 @@ description: Interactive maps available within Santa Barbara Channel.
     </div>
     <div class="col-md-7">
         <h3>Interactive ecosystem for marine sanctuary</h3>
-        <p>The Channel Islands national marine Sanctuary is using SBC MBON data to inform on the condition of ocean health in the Sanctuary.</p>
+        <p>The Channel Islands national marine Sanctuary is using SCB MBON data to inform on the condition of ocean health in the Sanctuary.</p>
     </div>
 </div>
 

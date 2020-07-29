@@ -5,10 +5,10 @@ layout: posts
 	<div class="col-lg-12">
 	<br>
 	<img class="featurette-image img-responsive center-block" src="{{site.url}}/img/news/shearwater4.jpg" alt="Generic placeholder image" style="float:right; PADDING-LEFT: 15px; PADDING-BOTTOM: 15px;">
-<font size="3px"><p>This past week the SBC MBON teamed up with Northwest
+<font size="3px"><p>This past week the SCB MBON teamed up with Northwest
 Fisheries Science Center and Bureau of Ocean Energy Management (BOEM) to survey fish and invertebrate communities on 12 mile reef, also known as Calafia, using an imaging AUV. The cruise aboard the <em>Shearwater</em> took place September 7-11.</p> 
 
-<p>The survey team including SBC MBON’s own, Bob Miller, plans to use these images to develop methods for automated identification of marine organisms using Deep Learning techniques.  </p>
+<p>The survey team including SCB MBON’s own, Bob Miller, plans to use these images to develop methods for automated identification of marine organisms using Deep Learning techniques.  </p>
 
 <p style= "margin-bottom:150px">To learn more about the development of automated identification and its application to marine science contact <a href="mailto:miller@msi.ucsb.edu"> Robert Miller</a></p> 
 

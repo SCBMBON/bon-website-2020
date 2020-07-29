@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 'Data'
-description: Browse and download data products from the Santa Barbara Channel Biodiversity Observation Network (SBCBON).
+description: Browse and download data products from the Southern California Bight Biodiversity Observation Network (SCBBON).
 ---
 
 <div class="row">

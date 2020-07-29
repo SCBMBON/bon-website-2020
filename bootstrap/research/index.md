@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 'Home'
-description: The Santa Barbara Channel Marine Biodiversity Observation Network (SBC MBON) is an ongoing demonstration project with the goal of testing and exemplifying methods for identification and analysis of marine biodiversity. SBC MBON is one of three MBON's funded by NASA, BOEM and NOAA in an effort to explore value in marine biodiversity as an indicator of ocean health. Central to SBC MBON is the integration of biological and physical data across widely varying spacial and temporal scales. By analyzing marine biodiversity from the genetic scale up through the community level, and from the ecosystem scale down to the species level, and by supplementing existing data with novel research and analysis to fill relevant knowledge gaps, SBC MBON aims to develop a holistic understanding of diversity in the Santa Barbara Channel marine biosphere.
+description: The Southern California Bight Marine Biodiversity Observation Network (SCB MBON) is an ongoing demonstration project with the goal of testing and exemplifying methods for identification and analysis of marine biodiversity. SCB MBON is one of three MBON's funded by NASA, BOEM and NOAA in an effort to explore value in marine biodiversity as an indicator of ocean health. Central to SCB MBON is the integration of biological and physical data across widely varying spacial and temporal scales. By analyzing marine biodiversity from the genetic scale up through the community level, and from the ecosystem scale down to the species level, and by supplementing existing data with novel research and analysis to fill relevant knowledge gaps, SCB MBON aims to develop a holistic understanding of diversity in the Southern California Bight marine biosphere.
 ---
 
 <div class="container" id="landing-content">
@@ -11,9 +11,9 @@ description: The Santa Barbara Channel Marine Biodiversity Observation Network (
 			<font size="3px"><p>Using a two-part approach, the core of our research focuses on:</p>
 			<br>
 			<ol>
-					<li>Integrating and building upon existing programs in the region using both underutilized and new technologies,</li>
+					<li>Integrating and building upon existing programs in the region using both underutilized and new technologies;</li>
 					<br>
-					<li>Developing a more spatially and taxonomically comprehensive and cost-effective sampling strategy for two major habitats, the subtidal benthos (shallow and deep) and the pelagic, to better define biodiversity in the Santa Barbara Channel</li>
+					<li>Developing a more spatially and taxonomically comprehensive and cost-effective sampling strategy for two major habitats, the subtidal benthos (shallow and deep) and the pelagic, to better define biodiversity in the Southern California Bight</li>
 			</ol>
 			<br>
 	<hr>	

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 'Data Integration'
-description: Central to the Santa Barbara Channel Marine Biodiversity Observation Network (SBC MBON) is the integration of existing data on the local marine biosphere across various spatial, temporal, and taxonomic scales.
+description: Central to the Southern California Bight Marine Biodiversity Observation Network (SCB MBON) is the integration of existing data on the local marine biosphere across various spatial, temporal, and taxonomic scales.
 ---
 
 <div class="row">
@@ -14,14 +14,14 @@ description: Central to the Santa Barbara Channel Marine Biodiversity Observatio
 		
 		<p>To make this extensive collection of information useful to our understanding regional and global shifts in biodiversity and 
 		ecosystem services -- resulting from climate change, pollution, fishing, and other regional- to global-scale impacts -- these data 
-		sets must be integrated with one another. Combining biological data with physical data, SBC MBON aims to analyze the physical drivers 
+		sets must be integrated with one another. Combining biological data with physical data, SCB MBON aims to analyze the physical drivers 
 		of marine biodiversity.</p>
 		<p>These integrated data sets are expeceted to improve the capacity for science-based decisions, 
 		which affect marine ecosystems and the services they provide.</p>
 		
 		<h3>Biological data</h3>
-		<p>For 30+ years 4 different research groups have collected data on subtidal biodiversity in nearshore communities in the Santa Barbara Channel. SBC MBON has integrated the data of fishes, invertebrates and algae from 173 of the monitored sites, allowing for the analysis of abundance of fish, invertebrates, and algae with much higher spatial and temporal resolution than was previously possible.</p>
-		<p>Additionally, to facilitate data synthesis, SBC MBON is developing a taxonomic database to enable comparison of biodiversity data from different sources. This taxonomic database is scalable to accommodate the integration of taxa from additional data sets.</p>
+		<p>For 30+ years 4 different research groups have collected data on subtidal biodiversity in nearshore communities in the Santa Barbara Channel. SCB MBON has integrated the data of fishes, invertebrates and algae from 173 of the monitored sites, allowing for the analysis of abundance of fish, invertebrates, and algae with much higher spatial and temporal resolution than was previously possible.</p>
+		<p>Additionally, to facilitate data synthesis, SCB MBON is developing a taxonomic database to enable comparison of biodiversity data from different sources. This taxonomic database is scalable to accommodate the integration of taxa from additional data sets.</p>
 		
 		</div>
 		<div class="col-md-4">
@@ -33,7 +33,7 @@ description: Central to the Santa Barbara Channel Marine Biodiversity Observatio
 		<div class="col-md-8">
 		<h3>Physical data</h3>
 
-		<p> To understand regional patterns of marine biodiversity, SBC MBON focuses on physical data for which there is continuous coverage within the region. The data includes:
+		<p> To understand regional patterns of marine biodiversity, SCB MBON focuses on physical data for which there is continuous coverage within the region. The data includes:
 			<ul>
 				<li>bathymetry and substrate data derived from sonar surveys</li>
 				<li>sea-surface temperature, chlorophyll and local kelp canopy derived from satellite imagery</li>

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 'Data Workflows'
-description: SBC MBON Data processing workflow introduction 
+description: SCB MBON Data processing workflow introduction 
 ---
 <style type="text/css" scoped>
         table, th, td {
@@ -26,21 +26,21 @@ description: SBC MBON Data processing workflow introduction
 <!-- close this div below the point where you want these style rules to apply, eg, bottom of the page. -->
         <h1>Dataset Workflows</h1>
     <h2>Overview</h2>
-    <p>For planning and tracking progress, SBC MBON's data workflows are arranged by stage. Our processing stages "Raw", "Cleaned" and "Standarized metadata", are based on the generic workflow created by the MBON data managers (MBON DMAC, 2016), and shown in color in Figure 1. These stages generally refer to the amount of formal metadata available, and the degree to which data and metadata have been prepared for inclusion in a pubic repository.  
-        <p>Additionally, SBC MBON recognizes a series of processing levels to describe use in our research, and which are analagous to that used by NASA for satellite products: 
+    <p>For planning and tracking progress, SCB MBON's data workflows are arranged by stage. Our processing stages "Raw", "Cleaned" and "Standarized metadata", are based on the generic workflow created by the MBON data managers (MBON DMAC, 2016), and shown in color in Figure 1. These stages generally refer to the amount of formal metadata available, and the degree to which data and metadata have been prepared for inclusion in a pubic repository.  
+        <p>Additionally, SCB MBON recognizes a series of processing levels to describe use in our research, and which are analagous to that used by NASA for satellite products: 
         <ul>
-        <li>L0 (Level zero) data are considered 'raw' for SBC MBON purposes, although they may be considered 'final' by a contributing project. Some L0 data can be found in public repositories.</li>
-        <li>L1 (Level one) data have the same frequency and granularity as L0. Data have been reformated for SBC MBON, with our specific quality control routines applied. Generally, reformatting and QC are performed by SBC MBON.</li>
-        <li>L2 data have been aggregated for specific uses, also by SBC MBON. Aggregation may be spatial, temporal and/or taxonomic (e.g., combined taxa)</li>
+        <li>L0 (Level zero) data are considered 'raw' for SCB MBON purposes, although they may be considered 'final' by a contributing project. Some L0 data can be found in public repositories.</li>
+        <li>L1 (Level one) data have the same frequency and granularity as L0. Data have been reformated for SCB MBON, with our specific quality control routines applied. Generally, reformatting and QC are performed by SCB MBON.</li>
+        <li>L2 data have been aggregated for specific uses, also by SCB MBON. Aggregation may be spatial, temporal and/or taxonomic (e.g., combined taxa)</li>
         </ul>
         </p>        
-    <p>The combinations of stage and level are best expresses as a matrix for two reasons. First, research data often have insufficient metadata (e.g., they are 'L0, some metadata'), and although these may be found in public repositories, considerable work is required to bring them to the quality level necessary for SBC MBON integration. Secondly, SBC MBON distinguished between incoming data (even if these are already in public repositories), and datasets that it produces (that may be derived from incoming). Hence,  every workflow is tracked through both stages and levels. Progression through levels and stages is typically diagonal, step-wise between boxes (individual stages) - either up, or to the right.   In the lower left area of the matrix, almost all processing tasks require ad hoc code, but code reuse is likely for tasks in the upper right.</p>
+    <p>The combinations of stage and level are best expresses as a matrix for two reasons. First, research data often have insufficient metadata (e.g., they are 'L0, some metadata'), and although these may be found in public repositories, considerable work is required to bring them to the quality level necessary for SCB MBON integration. Secondly, SCB MBON distinguished between incoming data (even if these are already in public repositories), and datasets that it produces (that may be derived from incoming). Hence,  every workflow is tracked through both stages and levels. Progression through levels and stages is typically diagonal, step-wise between boxes (individual stages) - either up, or to the right.   In the lower left area of the matrix, almost all processing tasks require ad hoc code, but code reuse is likely for tasks in the upper right.</p>
          
     <p>Datasets ready for consumption or reuse are contributed to a public repository capable of handling revisioned updates and DOIs, and with an API so that time-series continuity is maintained, previous revisions are always availble, and data can be retrieved with code. Our goal is to create datasets which are general enough for a variety of purposes; we include code for generating certain formats if available.</p>
 <table class="figs">
     <tr> 
         <td> Figure 1. Generic MBON data processing workflow. Text describes creation of data that are "Standardized", indicated by the red arrow.  <em>From: MBON DMAC. 2016. Data management alignment, Workshop report</em></td>
-        <td width="50%"><img src="../../img/data/1_MBON_data_stages_SBCMBON.png" width="300px"/></td>
+        <td width="50%"><img src="../../img/data/1_MBON_data_stages_SCBMBON.png" width="300px"/></td>
     </tr>
     <tr>
         <td>Figure 2. Matrix of processing stages from Fig 1 (outlined in red, orange, green) against content levels (see Workflow template, below), with arrows indicating the general progression of data and metadata from "Raw" to "Standardized/aggregated".</td> 
@@ -67,13 +67,13 @@ description: SBC MBON Data processing workflow introduction
             <td></td>
         </tr>
         <tr>
-            <td><h4>L1</h4>Same frequency and granularity as L0. Data are reformated, with MBON-specific QC routines applied (usually by SBC MBON)</td>
+            <td><h4>L1</h4>Same frequency and granularity as L0. Data are reformated, with MBON-specific QC routines applied (usually by SCB MBON)</td>
             <td></td>
             <td> </td>
             <td><em>[ideal input]</em></td>
         </tr>
         <tr>
-            <td><h4>L0</h4>raw or incoming (to SBC MBON)</td>
+            <td><h4>L0</h4>raw or incoming (to SCB MBON)</td>
             <td></td>
             <td> </td>
             <td> </td>
@@ -119,19 +119,19 @@ description: SBC MBON Data processing workflow introduction
     <!--
     Row 2, Level 1 - cleaned data. -->
     <tr>
-        <td><h4>L1</h4>Same frequency and granularity as L0. Data are reformatted, with MBON-specific QC routines appied (usually by SBC MBON)</td>
+        <td><h4>L1</h4>Same frequency and granularity as L0. Data are reformatted, with MBON-specific QC routines appied (usually by SCB MBON)</td>
         <!-- L1 cleaned, 0 meta -->
         <td>    
             <dl>
                 <dt>Cleaned reef fish, inverts and algae</dt>
-                <dd>intermediate csv used by SBC MBON</dd>
+                <dd>intermediate csv used by SCB MBON</dd>
             </dl>
         </td>
         <!-- L1 cleaned, some meta -->
         <td>
                 <dl>
                     <dt>Cleaned reef fish, inverts and algae</dt>
-                    <dd>intermediate csv used by SBC MBON</dd>
+                    <dd>intermediate csv used by SCB MBON</dd>
                 </dl>
         </td>
         <!-- L1 cleaned, std meta -->
@@ -140,7 +140,7 @@ description: SBC MBON Data processing workflow introduction
     <!-- 
     Row 3, Level 0 -->
     <tr>
-        <td><h4>L0</h4>raw or incoming (to SBC MBON). 
+        <td><h4>L0</h4>raw or incoming (to SCB MBON). 
            </td>
         <!-- L0 raw, 0 meta -->
         <td>CINP, SNI data, not publicly available.</td>
@@ -162,9 +162,9 @@ description: SBC MBON Data processing workflow introduction
 </table>
 
 
-<h3 id="ASL">SBC MBON Species List</h3>
+<h3 id="ASL">SCB MBON Species List</h3>
 <h4>Summary</h4>
-<p>SBC MBON collects a list of taxa with levels (as appropriate) for all taxa encountered to date in any data we have used in research. Final dataset includes local (SBC MBON) IDs for reference, and authoritative codes from appropriate registries (e.g., FishBase, ITIS).</p>
+<p>SCB MBON collects a list of taxa with levels (as appropriate) for all taxa encountered to date in any data we have used in research. Final dataset includes local (SCB MBON) IDs for reference, and authoritative codes from appropriate registries (e.g., FishBase, ITIS).</p>
 <table class="workflow">
     <tr>
         <td width="25%">&nbsp;</td>
@@ -190,7 +190,7 @@ description: SBC MBON Data processing workflow introduction
     <!--
     Row 2, Level 1 - cleaned data. -->
     <tr>
-        <td><h4>L1</h4>Same frequency and granularity as L0. Data are reformatted, with MBON-specific QC routines appied (usually by SBC MBON)</td>
+        <td><h4>L1</h4>Same frequency and granularity as L0. Data are reformatted, with MBON-specific QC routines appied (usually by SCB MBON)</td>
         <!-- L1 cleaned, 0 meta -->
         <td>    
             &nbsp;
@@ -199,7 +199,7 @@ description: SBC MBON Data processing workflow introduction
         <td>
                 <dl>
                     <dt>Cleaned reef fish, inverts and algae</dt>
-                    <dd>intermediate csv used by SBC MBON</dd>
+                    <dd>intermediate csv used by SCB MBON</dd>
                 </dl>
         </td>
         <!-- L1 cleaned, std meta -->
@@ -208,7 +208,7 @@ description: SBC MBON Data processing workflow introduction
     <!-- 
     Row 3, Level 0 -->
     <tr>
-        <td><h4>L0</h4>raw or incoming (to SBC MBON). 
+        <td><h4>L0</h4>raw or incoming (to SCB MBON). 
            </td>
         <!-- L0 raw, 0 meta -->
         <td>CINP, SNI data, not publicly available.</td>

@@ -1,15 +1,15 @@
 ---
 layout: article
 title: 'About'
-description: Learn about the origin and motivation for the Santa Barbara Channel Marine Biodiversity Observation Network (SBC MBON), the primary objectives for the project, people involved, partners, and funders.
+description: Learn about the origin and motivation for the Southern California Bight Marine Biodiversity Observation Network (SCB MBON), the primary objectives for the project, people involved, partners, and funders.
 ---
 
 <div class="row">
-		<h1 class="page-header">Supporters<span class="text-muted"> of SBC MBON</span></h1>
-		<blockquote><p class="lead">SBC MBON is supported by the following partners and funders</p></blockquote>
+		<h1 class="page-header">Supporters<span class="text-muted"> of SCB MBON</span></h1>
+		<blockquote><p class="lead">SCB MBON is supported by the following partners and funders</p></blockquote>
 	<div class="col-md-7">		
 		<div id="partners" class="internal-link"></div>
-		<h2>SBC MBON Partners</h2>
+		<h2>SCB MBON Partners</h2>
 		<h4 class="text-muted">Our work is done in collaboration with:</h4>
 		
 		{% include partners.html %}
@@ -28,7 +28,7 @@ description: Learn about the origin and motivation for the Santa Barbara Channel
 		<hr>
 		<div id="funders" class="internal-link"></div>
 		<h2>MBON Funders</h2>
-		<h4 class="text-muted">SBC MBON is made possible through funding provided by:</h4>
+		<h4 class="text-muted">SCB MBON is made possible through funding provided by:</h4>
 		<div id="funders-wrapper">
 			<div class="col-md-4">
 				<a href="https://www.nasa.gov/" target="new"><img class="funder-logo img-responsive" alt="NASA logo" src="{{site.url}}/img/funders/nasa_logo_small.png"></a>

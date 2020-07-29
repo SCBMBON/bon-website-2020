@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 'Outreach'
-description: The Santa Barbara Channel Marine Biodiversity Observation Network (SBC MBON) is partnered with Channel Islands National Marine Sanctuary (CINMS) to bring educational material and means related to the marine biosphere to the community.
+description: The Southern California Bight Marine Biodiversity Observation Network (SCB MBON) is partnered with Channel Islands National Marine Sanctuary (CINMS) to bring educational material and means related to the marine biosphere to the community.
 ---
 
 <div class="row featurette">
@@ -19,14 +19,14 @@ description: The Santa Barbara Channel Marine Biodiversity Observation Network (
 				<li>Flow of Carbon through land, ocean and atmosphere</li>
 				<li>Causes and Effects of Climate change</li>
 			</ul>
-		SBC MBON is playing an active role in supporting the sixth grade teachers who are teaching the new ocean science curriculum.</p>
+		SCB MBON is playing an active role in supporting the sixth grade teachers who are teaching the new ocean science curriculum.</p>
 		<h3>Channel Islands National Marine Sanctuary</h3>
-		<p> In May 2015, Robert Miller met with <a href="http://channelislands.noaa.gov/">Channel Islands National Marine Sanctuary</a> (CINMS) education staff to discuss potential K12 audiences and outreach products that could be produced from the SBC MBON project. Two types of outreach were discussed:
+		<p> In May 2015, Robert Miller met with <a href="http://channelislands.noaa.gov/">Channel Islands National Marine Sanctuary</a> (CINMS) education staff to discuss potential K12 audiences and outreach products that could be produced from the SCB MBON project. Two types of outreach were discussed:
 			<ul>
 				<li>data interpretation</li>
 				<li>a technology piece focusing on detecting biodiversity trends over time</li>
 			</ul>
-		CINMS education team will work with the SBC MBON’s image analysis group to learn more about outreach potential of the image recognition work and interactive maps being developed for this project and genomic tools being used to detect plankton and microbe biodiversity.</p>
+		CINMS education team will work with the SCB MBON’s image analysis group to learn more about outreach potential of the image recognition work and interactive maps being developed for this project and genomic tools being used to detect plankton and microbe biodiversity.</p>
 		<h3>2015 International Congress for Conservation Biology</h3>
 		<p>Robert Miller participated as an invited speaker in a session at the 2015 International Congress for Conservation Biology in Montpellier, France. The session, titled <em>Forging A Path From Space Observations To Action On The Ground: Satellite Remote Sensing For Conservation Applications</em>, was organized by Graeme Buchanan (Royal Society for the Protection of Birds) and Allison Leidner (NASA).</p>
 	</div>

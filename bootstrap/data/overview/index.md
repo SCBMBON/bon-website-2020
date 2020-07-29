@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 'Data Management Overview'
-description: SBC MBON - overview of data management practices
+description: SCB MBON - overview of data management practices
 ---
 <div id="scoped-content">
     <style type="text/css" scoped>
@@ -14,26 +14,26 @@ description: SBC MBON - overview of data management practices
     </style>
     <!-- close this div below the point where you want these style rules to apply, eg, bottom of the page. -->
 
-         <h1>SBC MBON Data Management Overview</h1>
+         <h1>SCB MBON Data Management Overview</h1>
 
  <h2>Processing Pipeline</h2>
-<p>For planning and tracking progress, SBC MBON's data workflows are arranged by stage. Processing stages, "Raw", "Cleaned" and "Standarized metadata", are based on the generic workflow created by the MBON data managers (MBON DMAC, 2016), and shown on the left in Figure 1. These stages generally refer to the amount of formal metadata available, and the degree to which data and metadata have been prepared for inclusion in a pubic repository. SBC MBON data are currently published as "Cleaned". For some tables and their attributes, metadata will advance to "Standardized" after a) our table attributes have been mapped to appropriate external dictionaries (e.g., Darwin Core), and b) the EML specification handles semantic information. These conditions are both expected to be met during 2017 (e.g., the release of EML 2.2).</p>
+<p>For planning and tracking progress, SCB MBON's data workflows are arranged by stage. Processing stages, "Raw", "Cleaned" and "Standarized metadata", are based on the generic workflow created by the MBON data managers (MBON DMAC, 2016), and shown on the left in Figure 1. These stages generally refer to the amount of formal metadata available, and the degree to which data and metadata have been prepared for inclusion in a pubic repository. SCB MBON data are currently published as "Cleaned". For some tables and their attributes, metadata will advance to "Standardized" after a) our table attributes have been mapped to appropriate external dictionaries (e.g., Darwin Core), and b) the EML specification handles semantic information. These conditions are both expected to be met during 2017 (e.g., the release of EML 2.2).</p>
 
 <p><img src="../../img/data/1_MBON_data_stages_SBCMBON.png" width="auto"/></p> 
 
 
-<p><strong>Figure 1. Generic MBON data processing workflow. SBC MBON currently are "Cleaned" with "Standardized" expected for some tables/attributes by the end of 2017 (red arrows).  The repository is indicated by gold oval. From: MBON DMAC. 2016. Data management alignment, Workshop report.</strong></p>    
+<p><strong>Figure 1. Generic MBON data processing workflow. SCB MBON currently are "Cleaned" with "Standardized" expected for some tables/attributes by the end of 2017 (red arrows).  The repository is indicated by gold oval. From: MBON DMAC. 2016. Data management alignment, Workshop report.</strong></p>    
 
  <h2>Repositories Submissions</h2>
-<p>SBC MBON contributes all cleaned (curated) datasets to a public repository which supports DOIs, metadata and data immutability, and dataset versioning. We reduce redundant contributions by using federated systems that link multiple repositories a priori. The repository of the Environmental Data Initiative (EDI, <a href="http://environmentaldatainitiative.org">http://environmentaldatainitiative.org</a>) is a member node of the DataONE federation (<a href="http://dataone.org">http://dataone.org</a>), and so contributing there ensures that SBC MBON data can be found alongside data from other DataONE member nodes (with all available through a single API). NODC (NCEI division) is already a DataONE member node and AOOS and GCOOS are developing member node capabililty. Further, DataONE already supports Darwin Core, and is exploring indexing by GBIF, two features that will facilitate data flow to OBIS. </p>
-<p>SBC MBON maintains a catalog of its datasets in public repositories: <a href="../catalog/">SBC MBON Data catalog</a>.</p>
+<p>SCB MBON contributes all cleaned (curated) datasets to a public repository which supports DOIs, metadata and data immutability, and dataset versioning. We reduce redundant contributions by using federated systems that link multiple repositories a priori. The repository of the Environmental Data Initiative (EDI, <a href="http://environmentaldatainitiative.org">http://environmentaldatainitiative.org</a>) is a member node of the DataONE federation (<a href="http://dataone.org">http://dataone.org</a>), and so contributing there ensures that SCB MBON data can be found alongside data from other DataONE member nodes (with all available through a single API). NODC (NCEI division) is already a DataONE member node and AOOS and GCOOS are developing member node capabililty. Further, DataONE already supports Darwin Core, and is exploring indexing by GBIF, two features that will facilitate data flow to OBIS. </p>
+<p>SCB MBON maintains a catalog of its datasets in public repositories: <a href="../catalog/">SCB MBON Data catalog</a>.</p>
 
 
 
 
 
      <h2>Dataset Packaging </h2>
-    <p>SBC MBON datasets are classified according to their metadata needs (A, B or C). Because the EDI repository and DataONE support versioning, metadata and data can be enhanced in future revisions. 
+    <p>SCB MBON datasets are classified according to their metadata needs (A, B or C). Because the EDI repository and DataONE support versioning, metadata and data can be enhanced in future revisions. 
       </p>
 
 <dl>
@@ -43,14 +43,14 @@ description: SBC MBON - overview of data management practices
     <dd> Two types of datasets receive full (entity-level) metadata per the practices of LTER Network and EDI.
             
          <ol type="a">
-             <li>Data collected <em>de novo</em> by the project. Data are owned by SBC MBON, and SBC MBON controls all metadata. 
+             <li>Data collected <em>de novo</em> by the project. Data are owned by SCB MBON, and SCB MBON controls all metadata. 
                <dl>
                     <dt>examples</dt> 
                     <dd>abundance generated by Bisque imagery analysis<br />
                         environmental DNA</dd>
                 </dl>
             </li>
-            <li>Curated or reformatted external data. These are datasets for which SBC MBON is acting as a "broker". Many aspects of metadata are determined by the contributor: Data ownership, intellectual rights (although we encourage adoption of SBC MBON practices for ownership and licensing), collection methods, and processing code (where appropriate). If data were obtained from a repository or web service, SBC MBON includes that link as is possible, e.g. as data source under methods or provenance. 
+            <li>Curated or reformatted external data. These are datasets for which SCB MBON is acting as a "broker". Many aspects of metadata are determined by the contributor: Data ownership, intellectual rights (although we encourage adoption of SCB MBON practices for ownership and licensing), collection methods, and processing code (where appropriate). If data were obtained from a repository or web service, SCB MBON includes that link as is possible, e.g. as data source under methods or provenance. 
                 <dl>
                     <dt>examples</dt> 
                     <dd>CalCOFI Fish Larvae abundance<br />
@@ -70,7 +70,7 @@ description: SBC MBON - overview of data management practices
     </dd>
 
 <dt>C. Cited exogenous data:</dt> 
-    <dd>Source data that are already publicly available, and curated and managed by a non-SBC MBON group will be cited and linked in our catalog. If necessary, SBC MBON will create citation-level metadata to external resources, i.e., metadata adequate to produce a data citation that is analogous to a paper citation and consistent with ESIP guidelines. These include original creator, title, date, publisher, system and ID. A URL will be included if no persistent ID is available. 
+    <dd>Source data that are already publicly available, and curated and managed by a non-SCB MBON group will be cited and linked in our catalog. If necessary, SCB MBON will create citation-level metadata to external resources, i.e., metadata adequate to produce a data citation that is analogous to a paper citation and consistent with ESIP guidelines. These include original creator, title, date, publisher, system and ID. A URL will be included if no persistent ID is available. 
         <dl>
         <dt>examples</dt> 
             <dd>Dataset of Giant Kelp biomass, produced by the Santa Barbara Coastal Long Term Ecological Research (LTER) project</dd>

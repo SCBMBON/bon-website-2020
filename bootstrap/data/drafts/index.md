@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 'Data Drafts'
-description: SBC MBON dataset drafts 
+description: SCB MBON dataset drafts 
 ---
 <div id="scoped-content">
     <style type="text/css" scoped>
@@ -12,14 +12,14 @@ description: SBC MBON dataset drafts
     </style>
     <!-- close this div below the point where you want these style rules to apply, eg, bottom of the page. -->
     
-    <h1>Draft datasets for Santa Barbara Channel Marine Biodiversity Network</h1>
+    <h1>Draft datasets for Southern California Bight Marine Biodiversity Network</h1>
     
    
-    <p>Below are datasets currently in progress by the SBC MBON. All datasets will have EML metadata created, 
+    <p>Below are datasets currently in progress by the SCB MBON. All datasets will have EML metadata created, 
         and will be contributed to public repositories. Some draft packages are available for preview
         (follow URL link, if shown). </p>
         <p>Datasets with complete metadata in a public repository can be found in the 
-        	<a href="../catalog/">SBC MBON Data Catalog</a>
+        	<a href="../catalog/">SCB MBON Data Catalog</a>
 
 	
 
@@ -45,7 +45,7 @@ description: SBC MBON dataset drafts
 				<dd>the Plumes and Blooms project has been collecting CTD and rosette bottle samples in the Santa Barbara since 1997.</dd>
 
 				<dt>Maintenance plan</dt>
-				<dd>Full metadata (Type A.b). Ongoing time series of data from CTD rosette bottles will be co-designed by SBC MBON and the Siegel lab. Siegel lab will produce datasets and updates.  </dd>
+				<dd>Full metadata (Type A.b). Ongoing time series of data from CTD rosette bottles will be co-designed by SCB MBON and the Siegel lab. Siegel lab will produce datasets and updates.  </dd>
 			</dl>
 		</li>
 <!--
@@ -76,8 +76,8 @@ description: SBC MBON dataset drafts
 	</ul>
 
 
-	<h2>Other data sources of SBC MBON</h2>
-	<p> list is maintained here: <a href="https://docs.google.com/spreadsheets/d/1IKIk9GRxrYHhBp5NXvj-437y78lv4OJA_yzIe9z-l18/edit#gid=0">SBC MBON Biological data sources (requires login)</a>
+	<h2>Other data sources of SCB MBON</h2>
+	<p> list is maintained here: <a href="https://docs.google.com/spreadsheets/d/1IKIk9GRxrYHhBp5NXvj-437y78lv4OJA_yzIe9z-l18/edit#gid=0">SCB MBON Biological data sources (requires login)</a>
 	</p> 
 
    

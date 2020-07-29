@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 'Gallery'
-description: Explore media including photos, video, and audio recordings related to the Santa Barbara Channel Marine Biodiversity Observation Network (SBC MBON).
+description: Explore media including photos, video, and audio recordings related to the Southern California Bight Marine Biodiversity Observation Network (SCB MBON).
 ---
 
 <div class="row">
@@ -15,7 +15,8 @@ description: Explore media including photos, video, and audio recordings related
 <div class="row">
 	<div class="col-md-7">
 		<div class="embed-responsive embed-responsive-16by9">
-			<iframe class="embed-responsive-item" src="https://explore.org/livecams/player/channel-islands-national-park-anacapa-ocean" style="border: 0 none transparent;" webkitallowfullscreen="" allowfullscreen="" frameborder="no"></iframe>
+        <iframe scrolling="yes" src="https://explore.org/livecams/oceans/channel-islands-national-park-anacapa-ocean" style="border: 0px none; margin-left: -1px; height: 800px; margin-top: -200px; width: 670px;">
+         </iframe>
 		</div>
 	</div>
 		<div class="col-md-5">
@@ -30,7 +31,9 @@ description: Explore media including photos, video, and audio recordings related
 
 <div class="row">
 	<div class="col-md-7">
-		<a href="http://digital.library.ucsb.edu/items/browse?collection=23" target="_blank">
+		<a href="https://alexandria.ucsb.edu/collections/f3f76c59" target="_blank">
+		<!--This was the original website but it doesn't work anymore
+			<a href="http://digital.library.ucsb.edu/items/browse?collection=23" target="_blank">-->
 			<img class="img-responsive" src="{{site.url}}/img/gallery/mcpeak.jpg" alt="Ronald H. McPeak Collection">
 		</a>
 	</div>
@@ -38,7 +41,7 @@ description: Explore media including photos, video, and audio recordings related
 		<h3>Ronald H. McPeak</h3>
 		<h4>Underwater and Coastal California Photographs, 1965-1999</h4>
 		<p>This collection contains over 2000 35 mm color mounted slides, taken by Ron McPeak of the underwater biota of giant kelp forests in California and Baja Mexico from 1965 to 1999, and hosted by Digital Collection at UC Santa Barbara. This collection also includes images of kelp harvesting in California, salmon spawning in Alaskan streams, and aerial and landscape views of coastal California and its offshore islands.</p>
-		<a class="btn btn-primary" href="http://digital.library.ucsb.edu/items/browse?collection=23" target="_blank">View Collection<span class="glyphicon glyphicon-chevron-right"></span></a>
+		<a class="btn btn-primary" href="https://alexandria.ucsb.edu/collections/f3f76c59" target="_blank">View Collection<span class="glyphicon glyphicon-chevron-right"></span></a>
 	</div>
 </div>
 
