@@ -13,6 +13,56 @@ description: Interactive maps available within Southern California Bight.
 <div class="row">
     <div class="col-md-5">
         <div class="embed-responsive embed-responsive-16by9">
+            <a href="cinms/" target="_blank">
+                 <img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/maps/cinms.png">
+            </a>
+        </div>
+    </div>
+    <div class="col-md-7">
+        <h3>Interactive ecosystem for marine sanctuary</h3>
+        <p>The Channel Islands national marine Sanctuary is using SCB MBON data to inform on the condition of ocean health in the Sanctuary.</p>
+    </div>
+</div>
+
+<hr>
+
+<div class="row">
+    <div class="col-md-5">
+        <div class="embed-responsive embed-responsive-16by9">
+            <a href="ocean_report/" target="_blank">
+                 <img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/maps/img_ocean_report.png">
+            </a>
+        </div>
+    </div>
+    <div class="col-md-7">
+        <h3>Ocean Report</h3>
+        <p>Draw a custom area anywhere in U.S. waters or pick from a predefined list of locations to get instant custom reports. Reports include descriptive infographics and supporting data that can be used for offshore planning, permitting, environmental review, public relations, and more. New features allow printing by industry, sharing, and adding custom coordinates. .</p>
+    </div>
+</div>
+
+<hr>
+
+ <div class="row">
+    <div class="col-md-5">
+        <div class="embed-responsive embed-responsive-16by9">
+            <a href="Imagery_BisQue/" target="_blank">
+                 <img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/maps/benthic_imagery.jpg">
+            </a>
+        </div>
+    </div>
+    <div class="col-md-7">
+        <h3>Benthic community from the image analysis</h3>
+        <p>This is a series of interactive maps show the abundance and diversity of the benthos organisms, as well as their community assemblage in the kelp forest.</p>
+        <p>Relevant datasets include: </p>
+        <p><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=484" target="_blank">Benthic percent cover</a></p>
+    </div>
+</div>
+
+ <hr>
+
+<div class="row">
+    <div class="col-md-5">
+        <div class="embed-responsive embed-responsive-16by9">
              <a href="reef_map/" target="_blank">
                 <img class="img-thumbnnail img-responsive img-center" src="{{site.url}}/img/maps/newmap.png" >
             </a>
@@ -104,39 +154,8 @@ description: Interactive maps available within Southern California Bight.
  
  <hr>
  
- <div class="row">
-    <div class="col-md-5">
-        <div class="embed-responsive embed-responsive-16by9">
-            <a href="Imagery_BisQue/" target="_blank">
-                 <img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/maps/benthic_imagery.jpg">
-            </a>
-        </div>
-    </div>
-    <div class="col-md-7">
-        <h3>Benthic community from the image analysis</h3>
-        <p>This is a series of interactive maps show the abundance and diversity of the benthos organisms, as well as their community assemblage in the kelp forest.</p>
-        <p>Relevant datasets include: </p>
-        <p><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=484" target="_blank">Benthic percent cover</a></p>
-    </div>
-</div>
-
- <hr>
 
  
- <div class="row">
-    <div class="col-md-5">
-        <div class="embed-responsive embed-responsive-16by9">
-            <a href="cinms/" target="_blank">
-                 <img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/maps/cinms.png">
-            </a>
-        </div>
-    </div>
-    <div class="col-md-7">
-        <h3>Interactive ecosystem for marine sanctuary</h3>
-        <p>The Channel Islands national marine Sanctuary is using SCB MBON data to inform on the condition of ocean health in the Sanctuary.</p>
-    </div>
-</div>
-
 
 <!--
    
