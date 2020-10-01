@@ -45,11 +45,11 @@ The Southern California Bight Marine Biodiversity Observation Network (SCB MBON)
 	<div class="row"><center>
 		<div class="col-sm-3">
 		<h2><span style="color:red">NEW</span><br />Interactive Map Oil/Gas Platforms</h2>
-		<a href="{{site.url}}/data/map/oil%20platforms/">			
+		<a href="{{site.url}}/data/map/oil_platforms/">			
 			<img class="img-thumbnnail img-responsive img-center" src="{{site.url}}/img/maps/platform_decommission2.png" alt="map">
 			</a>
 			<p>Explore fish biomass, abundance, and somatic production projections under alternative platform decommissioning scenarios
-			<br /><a href="{{site.url}}/data/map">Other SCB MBON Interactive Maps</a>
+			<br /><a href="{{site.url}}/data/map/">Other SCB MBON Interactive Maps</a>
 			</p>			
 			<h3>IOOS MBON Portal</h3>
 		<a href="https://mbon.ioos.us/?ls=3789e3a6-3c07-50f4-6a03-f285aff943ae#map">
@@ -64,7 +64,7 @@ The Southern California Bight Marine Biodiversity Observation Network (SCB MBON)
 		</div>		
 		<div class="col-sm-3">
 		<h2>Explore Biodiversity</h2>
-		<p><a href="https://questagame.com//">QuestaGame: Saving live on Earth<span class="glyphicon glyphicon-chevron-right"></span></a> 
+		<p><a href="https://questagame.com/">QuestaGame: Saving live on Earth<span class="glyphicon glyphicon-chevron-right"></span></a> 
 		A mobile app helps you discover, map and contribute to real research and conservation. </p>		
 		<p><a href="https://www.smithsonianmag.com/videos/category/science/why-should-humans-care-about-biodiversity-loss/">Should humans care about boidiversity loss?
 		<span class="glyphicon glyphicon-chevron-right"></span></a> 
@@ -77,13 +77,13 @@ The Southern California Bight Marine Biodiversity Observation Network (SCB MBON)
 		</div>
 		<div class="col-sm-3">
 			<h2>About SCB MBON</h2> 
-			<a href="{{site.url}}/about"><img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/All/MBON8288_nud_cropped.jpg" alt="Nudibranch">
-			<a class="btn btn-primary" href="{{site.url}}/research">About the research<span class="glyphicon glyphicon-chevron-right"></span></a>			
+			<a href="{{site.url}}/research/"><img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/All/MBON8288_nud_cropped.jpg" alt="Nudibranch">
+			<a class="btn btn-primary" href="{{site.url}}/research/">About the research<span class="glyphicon glyphicon-chevron-right"></span></a>			
 			<br /><br />			
 			<img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/All/divers4_cropped2.jpg" alt="4 divers"></a>
-			<a class="btn btn-primary" href="{{site.url}}/about">About us<span class="glyphicon glyphicon-chevron-right"></span></a>
+			<a class="btn btn-primary" href="{{site.url}}/about/">About us<span class="glyphicon glyphicon-chevron-right"></span></a>
             <p>Interested in research, marine ecology or scientific SCUBA diving? Contact us to 
-			<a href="{{site.url}}/involved">Volunteer<span class="glyphicon glyphicon-chevron-right"></span>
+			<a href="{{site.url}}/involved/">Volunteer<span class="glyphicon glyphicon-chevron-right"></span>
 		
 		
 				
