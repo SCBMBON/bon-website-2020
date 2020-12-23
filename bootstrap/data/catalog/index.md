@@ -27,15 +27,18 @@ description: SCB MBON datasets available in public repositories (catalog/index)
         <tr>
             <td class="ds_title">Southern California Bight Marine BON: Integrated kelp forest/reef: Fish</td> 
             <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=5">dataset in repository</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://mbon.ioos.us/?ls=3789e3a6-3c07-50f4-6a03-f285aff943ae#map">dataset in MBON Portal</a></td>
+            <a href="https://mbon.ioos.us/?ls=3789e3a6-3c07-50f4-6a03-f285aff943ae#map">MBON Portal</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=488">DwCA format</a></td>
         </tr>
         <tr>
-            <td class="ds_title">Southern California Bight Marine BON: Integrated kelp forest/reef: Quad and swath cover</td>
-            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=6">dataset in repository</a></td>
+            <td class="ds_title">Southern California Bight Marine BON: Integrated kelp forest/reef: Quad and swath survey</td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=6">dataset in repository</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=491">DwCA format</a></td>
        </tr>
        <tr>
             <td class="ds_title">Southern California Bight Marine BON: Integrated kelp forest/reef: Benthic cover</td>
-            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=3">dataset in repository</a></td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=3">dataset in repository</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=490">DwCA format</a></td>
        </tr>
        <tr>
             <td class="ds_title">Southern California Bight Marine BON: species list for the four integrated datasets shown above</td>
@@ -49,6 +52,10 @@ description: SCB MBON datasets available in public repositories (catalog/index)
             <td class="ds_title">Southern California Bight Coastal and Island fish survey from the Reef Check, 2006-2017</td>
             <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=141">dataset in repository</a></td>
        </tr>
+       <tr>
+            <td class="ds_title">Benthic percent cover in the Santa Barbara Channel using image analysis and machine learning</td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=484">dataset in repository</a></td>
+       </tr>
 </table>
 
 
@@ -57,22 +64,41 @@ description: SCB MBON datasets available in public repositories (catalog/index)
 <table class="dataset_descr">
         <tr>
             <td class="ds_title">Southern California Bight fish surveys at deep reefs: Footprint, Piggy Bank, Anacapa Passage</td>
-            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=110">dataset in repository</a></td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=110">dataset in repository</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=487">DwCA format</a></td>
         </tr>
 </table>
 
+<h3>Offshore</h3>
 
-<h3 id="ASL">Beach</h3>
+<table class="dataset_descr">
+        <tr>
+            <td class="ds_title">SCCWRP Bight Infauna, chemistry, and grain size, 1994-2013</td>
+            <td><a href="https://portal-s.edirepository.org/nis/mapbrowse?scope=edi&identifier=485">dataset in repository</a></td>
+        </tr>
+        <tr>
+            <td class="ds_title">NWFSC fish and invertebrate diversity derived from west coast groundfish trawl program, 1977-2018</td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=486">dataset in repository</a></td>
+         </tr>
+         <tr>
+            <td class="ds_title">Plumes and Blooms: Curated oceanographic and phytoplankton pigment observations, 1996-2018</td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=knb-lter-sbc&identifier=134">dataset in repository</a></td>
+         </tr>
+</table>
+
+<h3 id="ASL">Beach & Intertidal zone</h3>
 <table class="dataset_descr">
         <tr>
             <td class="ds_title">Time-series of beach wrack consumers, ongoing since 2011</td>
             <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=knb-lter-sbc&identifier=91">dataset in repository</a></td>
         </tr>
-    </table>
-     <table class="dataset_descr">
         <tr>
             <td class="ds_title">Time series of abundance of birds on selected beaches, ongoing since 2008</td>
             <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=knb-lter-sbc&identifier=51">dataset in repository</a></td>
+        </tr>
+          <tr>
+            <td class="ds_title">Abundance and species composition of benthic heterobranch molluscs from the Santa Barbara Channel mainland, 2002-2020</td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=646">dataset in repository</a></td>
         </tr>
 </table>
 
@@ -86,15 +112,20 @@ description: SCB MBON datasets available in public repositories (catalog/index)
         </tr>
         <tr>
             <td class="ds_title">Santa Barbara Channel fish surveys at shallow regions of oil and gas platforms (SCUBA)</td>
-            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=113">dataset in repository</a></td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=113">dataset in repository</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=489">DwCA format</a></td>
         </tr>
         <tr>
             <td class="ds_title">Santa Barbara Channel fish surveys at shallow outcrops nearby the oil/gas platforms </td>
             <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=112">dataset in repository</a></td>
         </tr>
+        <tr>
+            <td class="ds_title">A Comparison of Two ROV Survey Methods Used to Estimate Fish Assemblages and Densities Around a California Oil Platform</td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=470">dataset in repository</a></td>
+        </tr>
 </table>
 
-<h3>Marine mammals</h3>
+<h3>Birds & Marine mammals</h3>
 
 <table class="dataset_descr">
         <tr>
@@ -109,6 +140,11 @@ description: SCB MBON datasets available in public repositories (catalog/index)
             <td class="ds_title">Scripps whale acoustic lab: Various marine mammals data found on sea-map </td>
             <td><a href="http://seamap.env.duke.edu/">dataset in seamap</a></td>
         </tr>
+        <tr>
+            <td class="ds_title">Bird and mammal observations aboard CalCOFI (1987-2015, ongoing), NMFS (1996-2015, ongoing) and CPR (2003-2006, completed) cruises.</td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=knb-lter-cce&identifier=255">dataset in repository</a></td>
+        </tr>
+
 </table>
 
 
