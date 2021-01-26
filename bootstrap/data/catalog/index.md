@@ -164,6 +164,10 @@ description: SCB MBON datasets available in public repositories (catalog/index)
             <td class="ds_title">Southern California Bight Marine BON: genomics study on 16S primer comparison</td>
             <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=114">dataset in repository</a></td>
         </tr>
+        <tr>
+            <td class="ds_title">Sea urchin microbiomes in Southern California</td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=702">dataset in repository</a></td>
+        </tr>
 </table>
 
 
