@@ -64,14 +64,18 @@ The Southern California Bight Marine Biodiversity Observation Network (SCB MBON)
 		</div>		
 		<div class="col-sm-3">
 		<h2>Explore Biodiversity</h2>
+		<br>
 		<p><a href="https://questagame.com/">QuestaGame: Saving live on Earth<span class="glyphicon glyphicon-chevron-right"></span></a> 
 		A mobile app helps you discover, map and contribute to real research and conservation. </p>		
+		<br>
 		<p><a href="https://www.smithsonianmag.com/videos/category/science/why-should-humans-care-about-biodiversity-loss/">Should humans care about boidiversity loss?
 		<span class="glyphicon glyphicon-chevron-right"></span></a> 
-		Smithsionian video illustrates that we don't just impact the web of life, we depend on it.</p>		
+		Smithsionian video illustrates that we don't just impact the web of life, we depend on it.</p>	
+		<br>	
 		<p><a href="https://www.amnh.org/explore/ology/biodiversity/dive-into-worlds-within-the-sea">Dive into worlds within the sea
 		<span class="glyphicon glyphicon-chevron-right"></span></a> 
-		An online game exploring marine ecosystems and how organisms depend on each other.</p>		
+		An online game exploring marine ecosystems and how organisms depend on each other.</p>	
+		<br>	
 		<p><a href="http://100islandchallenge.org/">100 Island Challenge<span class="glyphicon glyphicon-chevron-right"></span></a> 
 		Classical field surveys combined with innovative technologies  to illustrate coral reefs and population changes through time.</p>
 		</div>
@@ -83,9 +87,6 @@ The Southern California Bight Marine Biodiversity Observation Network (SCB MBON)
 			<img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/All/divers4_cropped2.jpg" alt="4 divers"></a>
 			<a class="btn btn-primary" href="{{site.url}}/about/">About us<span class="glyphicon glyphicon-chevron-right"></span></a>
             <p>Interested in research, marine ecology or scientific SCUBA diving? Contact us to 
-			<a href="{{site.url}}/involved/">Volunteer<span class="glyphicon glyphicon-chevron-right"></span>
-		
-		
-				
-
-		
+			<a href="{{site.url}}/involved/">Volunteer<span class="glyphicon glyphicon-chevron-right"></span>		
+		    <p> <a href="{{ site.baseurl }}/about/">More about SCB MBON</a> </p>
+   			<p><a href="https://www.instagram.com/scb_mbon/" target="_blank"><img src="/img/icons/instagram.png" alt="Instagram" width="70" height="70"></a> 
