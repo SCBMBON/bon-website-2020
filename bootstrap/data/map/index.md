@@ -51,8 +51,8 @@ description: Interactive maps available within Southern California Bight.
         </div>
     </div>
     <div class="col-md-7">
-        <h3>Benthic community from the image analysis</h3>
-        <p>This is a series of interactive maps show the abundance and diversity of the benthos organisms, as well as their community assemblage in the kelp forest.</p>
+        <h3>Benthic biodiversity from image analysis</h3>
+        <p>This interactive mapping tool shows the abundance and diversity of benthic kelp forest species in the Santa Barbara Channel.</p>
         <p>Relevant datasets include: </p>
         <p><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=484" target="_blank">Benthic percent cover</a></p>
     </div>
