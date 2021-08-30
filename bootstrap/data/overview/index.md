@@ -25,7 +25,7 @@ description: SCB MBON - overview of data management practices
 <p><strong>Figure 1. Generic MBON data processing workflow. SCB MBON currently are "Cleaned" with "Standardized" expected for some tables/attributes by the end of 2017 (red arrows).  The repository is indicated by gold oval. From: MBON DMAC. 2016. Data management alignment, Workshop report.</strong></p>    
 
  <h2>Repositories Submissions</h2>
-<p>SCB MBON contributes all cleaned (curated) datasets to a public repository which supports DOIs, metadata and data immutability, and dataset versioning. We reduce redundant contributions by using federated systems that link multiple repositories a priori. The repository of the Environmental Data Initiative (EDI, <a href="http://environmentaldatainitiative.org">http://environmentaldatainitiative.org</a>) is a member node of the DataONE federation (<a href="http://dataone.org">http://dataone.org</a>), and so contributing there ensures that SCB MBON data can be found alongside data from other DataONE member nodes (with all available through a single API). NODC (NCEI division) is already a DataONE member node and AOOS and GCOOS are developing member node capabililty. Further, DataONE already supports Darwin Core, and is exploring indexing by GBIF, two features that will facilitate data flow to OBIS. </p>
+<p>SCB MBON contributes all cleaned (curated) datasets to a public repository which supports DOIs, metadata and data immutability, and dataset versioning. We reduce redundant contributions by using federated systems that link multiple repositories a priori. The repository of the Environmental Data Initiative (EDI, <a href="https://environmentaldatainitiative.org">https://environmentaldatainitiative.org</a>) is a member node of the DataONE federation (<a href="https://dataone.org">https://dataone.org</a>), and so contributing there ensures that SCB MBON data can be found alongside data from other DataONE member nodes (with all available through a single API). NODC (NCEI division) is already a DataONE member node and AOOS and GCOOS are developing member node capabililty. Further, DataONE already supports Darwin Core, and is exploring indexing by GBIF, two features that will facilitate data flow to OBIS. </p>
 <p>SCB MBON maintains a catalog of its datasets in public repositories: <a href="../catalog/">SCB MBON Data catalog</a>.</p>
 
 
@@ -90,7 +90,7 @@ description: SCB MBON - overview of data management practices
         <dd><a href="https://github.com/NCEAS/eml" target="_blank">https://github.com/NCEAS/eml</a></dd>
 
     <dt>ESIP - Interagency Data Stewardship/Citations/provider_guidelines<dt>
-        <dd><a href= "http://wiki.esipfed.org/index.php/Interagency_Data_Stewardship/Citations/provider_guidelines" target="_blank">http://wiki.esipfed.org/index.php/Interagency_Data_Stewardship/Citations/provider_guidelines</a></dd>
+        <dd><a href= "https://wiki.esipfed.org/index.php/Interagency_Data_Stewardship/Citations/provider_guidelines" target="_blank">https://wiki.esipfed.org/index.php/Interagency_Data_Stewardship/Citations/provider_guidelines</a></dd>
 
     <dt>MBON DMAC. 2016. Data management alignment, Workshop report</dt>
         <dd><a href="https://workspace.ioos.us/group/230656/project/1804166/folder/1818398/products" target="_blank">https://workspace.ioos.us/group/230656/project/1804166/folder/1818398/products></a></dd>
