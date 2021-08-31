@@ -88,10 +88,8 @@ description: SCB MBON - overview of data management practices
     <dt>EML Project</dt> 
         <dd> <a href="https://knb.ecoinformatics.org/#external//emlparser/docs/index.html" target="_blank">https://knb.ecoinformatics.org/#external//emlparser/docs/index.html</a> </dd>
         <dd><a href="https://github.com/NCEAS/eml" target="_blank">https://github.com/NCEAS/eml</a></dd>
-
     <dt>ESIP - Interagency Data Stewardship/Citations/provider_guidelines<dt>
         <dd><a href= "https://wiki.esipfed.org/index.php/Interagency_Data_Stewardship/Citations/provider_guidelines" target="_blank">https://wiki.esipfed.org/index.php/Interagency_Data_Stewardship/Citations/provider_guidelines</a></dd>
-
     <dt>MBON DMAC. 2016. Data management alignment, Workshop report</dt>
         <dd><a href="https://workspace.ioos.us/group/230656/project/1804166/folder/1818398/products" target="_blank">https://workspace.ioos.us/group/230656/project/1804166/folder/1818398/products></a></dd>
 
