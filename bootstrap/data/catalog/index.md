@@ -84,6 +84,10 @@ description: SCB MBON datasets available in public repositories (catalog/index)
             <td class="ds_title">Plumes and Blooms: Curated oceanographic and phytoplankton pigment observations, 1996-2018</td>
             <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=knb-lter-sbc&identifier=134">dataset in repository</a></td>
          </tr>
+         <tr>
+            <td class="ds_title">California Harmful Algal Bloom Monitoring and Alert Program Data, 2005-2021</td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=988">dataset in repository</a></td>
+         </tr>
 </table>
 
 <h3 id="ASL">Beach & Intertidal zone</h3>
