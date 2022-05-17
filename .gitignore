@@ -5,3 +5,4 @@ bootstrap/.svn/
 .DS_Store
 bootstrap/_site/
 .jekyll-cache/
+bootstrap/Gemfile.lock
