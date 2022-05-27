@@ -56,6 +56,10 @@ description: SCB MBON datasets available in public repositories (catalog/index)
             <td class="ds_title">Benthic percent cover in the Santa Barbara Channel using image analysis and machine learning</td>
             <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=484">dataset in repository</a></td>
        </tr>
+        <tr>
+            <td class="ds_title">Kelp forest fish communities environmental DNA samples from Santa Barbara Channel</td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=1132">dataset in repository</a></td>
+       </tr>
 </table>
 
 
@@ -171,6 +175,10 @@ description: SCB MBON datasets available in public repositories (catalog/index)
         <tr>
             <td class="ds_title">Sea urchin microbiomes in Southern California</td>
             <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=702">dataset in repository</a></td>
+        </tr>
+         <tr>
+            <td class="ds_title">Plumes and Blooms: Microbial eukaryote diversity and composition</td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=1135">dataset in repository</a></td>
         </tr>
 </table>
 
