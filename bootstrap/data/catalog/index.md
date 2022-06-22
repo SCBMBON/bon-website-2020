@@ -89,6 +89,10 @@ description: SCB MBON datasets available in public repositories (catalog/index)
             <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=knb-lter-sbc&identifier=134">dataset in repository</a></td>
          </tr>
          <tr>
+            <td class="ds_title">Plumes and Blooms: phytoplankton pigment concentration, ongoing since 2005</td>
+            <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=1147">dataset in repository</a></td>
+         </tr>
+         <tr>
             <td class="ds_title">California Harmful Algal Bloom Monitoring and Alert Program Data, 2005-2021</td>
             <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=988">dataset in repository</a></td>
          </tr>
