@@ -17,7 +17,7 @@ description: SCB MBON datasets available in public repositories (catalog/index)
     <!-- close this div below the point where you want these style rules to apply, eg, bottom of the page. -->
     <h1>SCB MBON Data Catalog</h1>
     <p>This catalog contains data from the Southern California Bight Marine BON (SCB MBON) that are available through public repositories, with DOIs and revision control. Metadata can be browsed and data downloaded with the links below. Most of our datasets are ongoing time-series, and so code should access data through the repository
-     API, so that it can be assured of using most recent revision of any dataset. For information on accessing via repository APIs, contact <a href="mailto:sbcmbon@gmail.com">SCB MBON.</a></p>
+     API, so that it can be assured of using most recent revision of any dataset. For information on accessing via repository APIs, contact <a href="mailto:sbcbon@msi.ucsb.edu">SCB MBON.</a></p>
      <p>For an overview of SCB MBON's data management and packaging practices see <a href="../overview/">SCB MBON Data Management Overview</a>.</p>
 
 <h2>Datasets in public repositories</h2>

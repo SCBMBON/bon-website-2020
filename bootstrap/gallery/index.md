@@ -49,7 +49,7 @@ description: Explore media including photos, video, and audio recordings related
 
 <div class="row">
 	<div class="col-md-7">
-		<a href="http://cetus.ucsd.edu/voicesinthesea_org/index.html" target="_blank">
+		<a href="https://voicesinthesea.ucsd.edu/" target="_blank">
 			<img class="img-responsive" src="{{site.url}}/img/gallery/voices-in-the-sea.jpg" alt="Voices in the sea">
 		</a>
 	</div>
@@ -57,6 +57,6 @@ description: Explore media including photos, video, and audio recordings related
 		<h3>Voices in the Sea</h3>
 		<h4>Marine Mammal Acoustics and Video Gallery</h4>
 		<p>Listen to audio samples of whales and other marine mammals in the their natural environments, and pick out patterns in their calls visually based on the corresponding spectrogram. Learn more about these species and the field of marine acoustics as a whole through provided statistics and videos with professionals.</p>
-		<a class="btn btn-primary" href="http://cetus.ucsd.edu/voicesinthesea_org/index.html" target="_blank">View Collection<span class="glyphicon glyphicon-chevron-right"></span></a>
+		<a class="btn btn-primary" href="https://voicesinthesea.ucsd.edu/" target="_blank">View Collection<span class="glyphicon glyphicon-chevron-right"></span></a>
 	</div>
 </div>
