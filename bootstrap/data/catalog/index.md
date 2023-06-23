@@ -45,7 +45,7 @@ description: SCB MBON datasets available in public repositories (catalog/index)
             <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=edi&identifier=7">dataset in repository</a></td>
        </tr>
        <tr>
-            <td class="ds_title">Time series of kelp biomass in the canopy from Landsat 5, 7 and 8, 1984 - 2016 (ongoing)</td>
+            <td class="ds_title">Time series of kelp biomass in the canopy from Landsat 5, 7 and 8, ongoing since 1984</td>
             <td><a href="https://portal.edirepository.org/nis/mapbrowse?scope=knb-lter-sbc&identifier=74">dataset in repository</a></td>
        </tr>
        <tr>
