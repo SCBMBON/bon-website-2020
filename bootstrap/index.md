@@ -86,7 +86,7 @@ The Southern California Bight Marine Biodiversity Observation Network (SCB MBON)
 			<br /><br />			
 			<img class="img-thumbnail img-responsive img-center" src="{{site.url}}/img/All/divers4_cropped2.jpg" alt="4 divers"></a>
 			<a class="btn btn-primary" href="{{site.url}}/about/">About us<span class="glyphicon glyphicon-chevron-right"></span></a>
-            <p>Interested in research, marine ecology or scientific SCUBA diving? Contact us to 
-			<a href="{{site.url}}/involved/">Volunteer<span class="glyphicon glyphicon-chevron-right"></span>		
+            <p>Interested in research, marine ecology or scientific SCUBA diving? Contact us to involve as a 
+			<a href="{{site.url}}/involved/">volunteer<span class="glyphicon glyphicon-chevron-right"></span>		
 		    <p> <a href="{{ site.baseurl }}/about/">More about SCB MBON</a> </p>
    			<p><a href="https://www.instagram.com/scb_mbon/" target="_blank"><img src="/img/icons/instagram.png" alt="Instagram" width="70" height="70"></a> 
